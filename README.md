@@ -1,5 +1,7 @@
 # Now Deploy Badge
 
+A badge shows how to deploy a GitHub repository to [Now Cloud](https://zeit.co/now).
+
 [![Deploy to Now](https://badgen.net/badge/%E2%96%B2%20Deploy%20to%20Now/$%20now%20user%2Frepo/111)](#usage)
 
 <details><summary>Variations</summary>
