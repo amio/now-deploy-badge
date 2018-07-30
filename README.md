@@ -10,8 +10,6 @@ A badge shows how to deploy a GitHub repository to [Now Cloud](https://zeit.co/n
       <img src="https://badgen.net/badge/%E2%96%B2/$%20now%20user%2Frepo/111" /></a>
     <a href="https://badgen.net/badge/%E2%96%B2/$%20now%20deploy%20user%2Frepo/111">
       <img src="https://badgen.net/badge/%E2%96%B2/$%20now%20deploy%20user%2Frepo/111" /></a>
-    <a href="https://badgen.net/badge/bash/$%20now%20deploy%20user%2Frepo/111?icon=terminal">
-      <img src="https://badgen.net/badge/bash/$%20now%20deploy%20user%2Frepo/111?icon=terminal" /></a>
   </p>
 </details>
 
