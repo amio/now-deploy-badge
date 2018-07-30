@@ -22,8 +22,6 @@ Alternatively you can also embed it with HTML:
 
 ## Variations
 
-Click to get it's url:
-
 [![deploy to now](https://badgen.net/badge/%E2%96%B2/$%20now%20user%2Frepo/111)](https://badgen.net/badge/%E2%96%B2/$%20now%20user%2Frepo/111)
 [![deploy to now](https://badgen.net/badge/%E2%96%B2/$%20now%20deploy%20user%2Frepo/111)](https://badgen.net/badge/%E2%96%B2/$%20now%20deploy%20user%2Frepo/111)
 
